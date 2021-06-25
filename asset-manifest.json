@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WD-React-Task-1/static/css/main.78f6b618.chunk.css",
+    "main.js": "/WD-React-Task-1/static/js/main.120cb67c.chunk.js",
+    "main.js.map": "/WD-React-Task-1/static/js/main.120cb67c.chunk.js.map",
+    "runtime-main.js": "/WD-React-Task-1/static/js/runtime-main.45992e1f.js",
+    "runtime-main.js.map": "/WD-React-Task-1/static/js/runtime-main.45992e1f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/WD-React-Task-1/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2fa34bc5.chunk.js": "/WD-React-Task-1/static/js/2.2fa34bc5.chunk.js",
+    "static/js/2.2fa34bc5.chunk.js.map": "/WD-React-Task-1/static/js/2.2fa34bc5.chunk.js.map",
+    "static/js/3.83162a9e.chunk.js": "/WD-React-Task-1/static/js/3.83162a9e.chunk.js",
+    "static/js/3.83162a9e.chunk.js.map": "/WD-React-Task-1/static/js/3.83162a9e.chunk.js.map",
+    "index.html": "/WD-React-Task-1/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/WD-React-Task-1/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.78f6b618.chunk.css.map": "/WD-React-Task-1/static/css/main.78f6b618.chunk.css.map",
+    "static/js/2.2fa34bc5.chunk.js.LICENSE.txt": "/WD-React-Task-1/static/js/2.2fa34bc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45992e1f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2fa34bc5.chunk.js",
+    "static/css/main.78f6b618.chunk.css",
+    "static/js/main.120cb67c.chunk.js"
+  ]
+}
