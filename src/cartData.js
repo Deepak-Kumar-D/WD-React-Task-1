@@ -1,3 +1,5 @@
+// Data for each decks
+
 export const cartData = [
   {
     title: "FREE",

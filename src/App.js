@@ -1,35 +1,20 @@
 import "./App.css";
 import { Title } from "./Title";
-import { Cart } from "./Cart";
-import CardDeck from "react-bootstrap/CardDeck";
-import { cartData } from "./cartData";
-
-function RealCard() {
-  return (
-    <CardDeck className="cardDeck">
-      {cartData.map((ele) => {
-        const { title, price, perksAvailable, perksUnavailable } = ele;
-        return (
-          <Cart
-            title={title}
-            price={price}
-            perksAvailable={perksAvailable}
-            perksUnavailable={perksUnavailable}
-          />
-        );
-      })}
-    </CardDeck>
-  );
-}
+import { RealCard } from "./RealCard";
 
 function App() {
   return (
+    // Main layout of the page for the purpose of 100% height of the inner components
     <div className="main">
+      {/* Title bar and the title of the page component with the price tag icon */}
       <Title />
+
+      {/* Container and holders for the decks inside it */}
       <div className="cont">
-        <div className="container" style={{ padding: "20px 0" }}>
-          {/* <RealCard /> */}
+        <div className="container">
+          {/* Reflection container for the reflection under the decks */}
           <div className="reflection">
+            {/* Decks Component */}
             <RealCard />
           </div>
         </div>
